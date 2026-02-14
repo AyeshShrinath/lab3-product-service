@@ -1,1 +1,1 @@
-https://github.com/YourName/lab3-product-service
+https://github.com/AyeshShrinath/lab3-product-service
